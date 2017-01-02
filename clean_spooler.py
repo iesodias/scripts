@@ -1,6 +1,6 @@
-# Created by: Iêso Dias // iesodias.com // iesodias.wordpress.com // github.com/iesodias
-# Script for clean the print spooler for windows 2003 ~ 2012
-# Tutorial: iesodias.wordpress.com
+# Created by: Iêso Dias // iesodias.com // iesodias.wordpress.com // github.com/iesodias 
+# Script for clean the print spooler to windows 2003 ~ 2012
+# Tutorial: iesodias.wordpress.com - 
 
 import os
 
